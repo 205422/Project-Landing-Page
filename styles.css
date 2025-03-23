@@ -1,0 +1,51 @@
+body {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.first-section {
+  border: 8px solid red;
+  background: purple;
+  color: white;
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px;
+  border: 8px solid blue;
+}
+.logo {
+  font-size: 20px;
+  font-weight: bold;
+}
+ul {
+  list-style-type: none;
+  display: flex;
+  gap: 16px;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+.book {
+  background: purple;
+  display: flex;
+  border: 8px solid green;
+}
+.page1 {
+  border: 8px solid black;
+}
+.word-left-1 {
+  font-size: 34px;
+  font-weight: bold;
+}
+button {
+  background: royalblue;
+  border: 1px solid royalblue;
+}
+.page2 {
+  border: 8px solid yellow;
+  background: gray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
