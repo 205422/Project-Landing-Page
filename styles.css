@@ -12,6 +12,7 @@
   justify-content: space-between;
   margin-left: 100px;
   margin-right: 100px;
+  padding: 20px;
 }
 .header-logo {
   font-size: 24px;
@@ -20,7 +21,7 @@
 ul {
   display: flex;
   list-style: none;
-  gap: 16px;
+  gap: 20px;
 }
 a {
   text-decoration: none;
@@ -36,9 +37,8 @@ a {
 }
 .header-body {
   display: flex;
-  margin-left: 100px;
-  margin-right: 100px;
+  padding: 100px;
 }
 img {
-  max-height: 200px;
+  max-height: 250px;
 }
