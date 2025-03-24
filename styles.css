@@ -10,8 +10,8 @@
 .header-top {
   display: flex;
   justify-content: space-between;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 290px;
+  margin-right: 290px;
   padding: 20px;
 }
 .header-logo {
@@ -107,4 +107,37 @@ button {
   align-self: flex-end;
   font-size: 20px;
   margin-right: 100px;
+}
+.fourth-section {
+  padding: 88px 111px;
+  display: flex;
+  justify-content: center;
+}
+.cta {
+  background: #3882f6;
+  border-radius: 4px;
+  color: #f9faf8;
+  display: flex;
+  gap: 8px;
+  padding: 33px;
+  justify-content: space-around;
+  max-width: 800px;
+}
+.sign-up {
+  cursor: pointer;
+  padding: 8px 16px;
+  border-radius: 8px;
+  background: #3882f6;
+  border: none;
+  color: white;
+  font-weight: 900;
+  border: 2px solid #f9faf8;
+}
+.footer {
+  background: #1f2937;
+  color: #f9faf8;
+  align-items: flex-end;
+  padding: 20px;
+  font-size: 14px;
+  text-align: center;
 }
