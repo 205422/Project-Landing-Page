@@ -90,3 +90,21 @@ button {
   width: 341px;
   align-items: end;
 }
+.third-section {
+  background: #e5e7eb;
+  display: flex;
+  flex-direction: column;
+  padding: 200px;
+}
+.quote {
+  font-size: 36px;
+  font-style: italic;
+  color: #1f2937;
+}
+.author {
+  font-weight: 900;
+  color: #1f2937;
+  align-self: flex-end;
+  font-size: 20px;
+  margin-right: 100px;
+}
